@@ -42,7 +42,6 @@ Search each file for `EDIT:` to find them all. Quick list:
 - Photo: replace `assets/img/akansha.jpg` with the real headshot, same filename
 - Prices in `_includes/plans.html`
 - Exam sitting date in `_includes/exam.html`
-- Refund policy in `_includes/faq.html`
 - EDAIC year in `_includes/about.html`
 
 ## What changed from the single-file version
